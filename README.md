@@ -21,8 +21,8 @@ To run this project, you need to have Python installed on your system. Follow th
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ardipazij/maze.git
-   cd maze
+   git clone https://github.com/ardipazij/s21_maze_python.git
+   cd s21_maze_python
    ```
 2. **Create a Virtual Environment**:
    ```bash
