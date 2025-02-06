@@ -1,5 +1,5 @@
 # maze
-implementation of generating perfect maze  according to Eller's algorithm and inpl of solving perfect maze according  Lee algorithm 
+implementation of generating perfect maze  according to Eller's algorithm and impl of solving perfect maze according  Lee algorithm 
 
 # Maze Generator and Solver
 
