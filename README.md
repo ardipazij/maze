@@ -52,6 +52,9 @@ To run this project, you need to have Python installed on your system. Follow th
    - Use the "Open File" button to load a maze from a file.
 
 ## Screenshots
+<img src="img/1.png?" alt="Start position" width="500" />
+<img src="img/2.png?" alt="The start point(green) and the end point(red)" width="500" />
+<img src="img/3.png?" alt="The path" width="500" />
 
 ## Project Structure
 
